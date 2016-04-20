@@ -46,10 +46,10 @@ This is MQTT client for ESP8266, port from: [MQTT client library for ESP8266 Soc
 
 ## 编译 ##
 
-使用./gen_misc.sh,使用步骤如下：
+使用./gen_misc.sh,编译步骤如下：
 
-1. 第一步：1(new boot)
-2. 第二步：1(user1)
-3. 第三步：2(40Mhz)
-4. 第四步：2(DIO)
-5. 第五步：6(1024+1024)
+- STEP 1：1(new boot)
+- STEP 2：1(user1.bin)
+- STEP 3：2(40Mhz)
+- STEP 4：2(DIO)
+- STEP 5：6(4096KB(1024+1024))
